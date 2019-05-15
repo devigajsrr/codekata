@@ -1,0 +1,5 @@
+i,j,k=input().split()
+i=int(i)
+j=int(j)
+k=int(k)
+print(max(i,j,k))
